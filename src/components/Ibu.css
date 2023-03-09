@@ -1,0 +1,31 @@
+.alpha-acid {
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.hops {
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.weight {
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.volume {
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color:#EF0107;;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.ibu-declare {
+    color: white;
+    margin-bottom: 50px;
+}

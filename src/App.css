@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: purple;
 }
 
 .App-logo {
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.bitter-image {
+height: auto;
+width: 70%;
+}
+
+.beer-head {
+color: #EF0107;
+}
+
+.hops-chart-head {
+  color: #EF0107;
 }
